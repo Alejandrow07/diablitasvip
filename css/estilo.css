@@ -1,0 +1,10 @@
+.homepage {
+  display: flex
+  flex-wrap: wrap;
+}
+
+.in-flex {
+  min-width: 300px;
+  margin-bottom: 0px;
+
+}
